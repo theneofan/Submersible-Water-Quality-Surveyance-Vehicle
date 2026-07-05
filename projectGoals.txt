@@ -1,0 +1,10 @@
+Goals;
+- Measure water depth
+- Measure water Temperature
+- Measure water quality
+- Must save data every 0.5 seconds
+
+
+UN SDGs
+Goal 6: Clean Water and Sanitation
+Goal 14: Life Below Water
