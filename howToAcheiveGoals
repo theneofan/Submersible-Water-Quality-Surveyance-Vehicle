@@ -1,0 +1,12 @@
+Goals:
+1 - Measure water Depth
+2 - Measure water Temperature
+3 - Measure water Quality
+4 - Save data every 0.5 seconds
+
+How to Solve:
+1 - Advanced calculations that determine depth based on time, weight, and displacement
+2 - DS18B20 waterproof temperature probe
+3 - Turbidity Sensor Metection Module Water Qualitodule Mixed Water Dy Test Turbidity Transducer DC 5V
+4 - Micro SD Card Module TF Card Reader/Writer SPI Interface With Level Conversion Chip 
+
